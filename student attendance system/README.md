@@ -20,25 +20,10 @@ Attendance Management is a web based application to record and calculate attenda
 2. Import attendance_sys.sql, if everything Okay then database will be imported.
 3. Tables - student, student_details, teacher, subject
 
-Teacher's Registration
-![Register](/doc/1.png)
-
-Add Class Details
-![Add Class](/doc/2.png)
-
-Mark Attendance of students
-![Mark Attendance](/doc/3.png)
-
-Statistics
-![Result](/doc/4.png)
-
-Result of student in a particular subject.
-![Result](/doc/5.png)
-
 ## License
 MIT License
 
-Copyright (c) 2021 Shruti Kumari
+Copyright (c) 2022 Danish Mahajan
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
